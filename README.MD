@@ -18,19 +18,19 @@ david_cookj17drc@yahoo.co.uk<br/><br/>
 <br/>
 
 <h4>Recent accomplishments</h4>
-
-* Design of build a library to Automating and improving our Load tests.
+<ul>
+<li>Design of build a library to Automating and improving our Load tests.
 Designed and built a Python package to integrate with our Load Testing setup (Locust IO) to gather live usage stats on our services in Production (by querying Splunk) and automatically modelling our load tests to mimic how that service is used in Production. This package also performs validation and quality checks on our load test scripts to provide fast feedback on failures and ensure that no service endpoint goes untested. The package is now being adopted by other teams within CTM.
-<br/>
-* Training our junior dev and getting them promoted.
+<br/><br/>
+<li>Training our junior dev and getting them promoted.
 I have been coaching a junior member of the team since she joined us on her final rotation as part of the graduate programme. When she arrived, she was thinking that she wanted to become a Business Analyst when the scheme finished. I took it as a personal challenge to show her what she could achieve in a more hands on role, working closely with her on a 1-2-1 basis. When the grad scheme finished, she applied for a junior developer role and joined our team, where we kept the relationship going. She has become a very valuable member of the team, recently promoted to Software Engineer, and we have set out more learning goals and objectives to get her moving in the direction of Senior.
 <br/>
 <br/>
-* Delivering online training to Devs across CTM.
+<li>Delivering online training to Devs across CTM.
 One of our Data Engineering teams were strugling to adopt Test Driven Development techniques so asked for volunteers to give some direction. I jumped at the chance to help get them up to speed. After figuring out where they were already, I put together a hands-on workshop showing them how we use TDD in our team.
 This was particularly interesting to me as they are all Python developers, and at the time I’d had little exposure to Python, so had to learn the language to deliver the training in a Tech they would all be comfortable with.
 After the workshop, I spent some time pairing and mobbing with people on the team to embed the new way of working. They now fully embrace the test first style of delivering code.
-<br/>
+</ul><br/>
 <br/>
 
 <h4>Work History</h4>
