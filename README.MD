@@ -1,9 +1,9 @@
 <p>Dave Cook <br/>
 Peterborough, UK<br/>
 david_cookj17drc@yahoo.co.uk<br/><br/>
-<p>LinkedIn:<a href="https://www.linkedin.com/in/dave-cook-b4256876/">https://www.linkedin.com/in/dave-cook-b4256876/</a></p>
-<p>Medium:<a href="https://medium.com/@dcook_net"> https://medium.com/@dcook_net</a></p>
-<p>Github:<a href="https://github.com/dcook-net">https://github.com/dcook-net</a></p>
+<p>LinkedIn: <a href="https://www.linkedin.com/in/dave-cook-b4256876/">https://www.linkedin.com/in/dave-cook-b4256876/</a></p>
+<p>Medium: <a href="https://medium.com/@dcook_net">https://medium.com/@dcook_net</a></p>
+<p>Github: <a href="https://github.com/dcook-net">https://github.com/dcook-net</a></p>
 
 <p>A passionate hands-on Developer, who loves building things, solving problems, and sharing knowledge with those around me. </p>
 <p>My current focus is around distributed, cloud-based APIs, containerisation, automation, and coaching/mentoring of the more junior members of the team at CompareTheMarket.com (CTM). I’m a massive fan of simple code that is easy to read, easy to understand, and easy to test, as this helps everyone move faster!</p>
@@ -15,7 +15,6 @@ david_cookj17drc@yahoo.co.uk<br/><br/>
     <li>Prior to lockdown I have given technical talks at various tech meetups and at the local college.
     <li>I am also on the organising team of DDD East Anglia.
 </ul>
-<br/>
 
 <h4>Recent accomplishments</h4>
 <ul>
@@ -30,15 +29,13 @@ I have been coaching a junior member of the team since she joined us on her fina
 One of our Data Engineering teams were strugling to adopt Test Driven Development techniques so asked for volunteers to give some direction. I jumped at the chance to help get them up to speed. After figuring out where they were already, I put together a hands-on workshop showing them how we use TDD in our team.
 This was particularly interesting to me as they are all Python developers, and at the time I’d had little exposure to Python, so had to learn the language to deliver the training in a Tech they would all be comfortable with.
 After the workshop, I spent some time pairing and mobbing with people on the team to embed the new way of working. They now fully embrace the test first style of delivering code.
-</ul><br/>
-<br/>
+</ul>
 
 <h4>Work History</h4>
 <h5>Senior Software Engineering @ ComparTheMarket.com: 2017 – Present</h5>
 <p>Building and maintaining a large suite of microservices, running on .Net Core & C#, to power the backbone of the backend for CTM’s online quoting engine.
 This network of systems needs to be highly available, deal with high throughput and fast response times to deliver a smooth customer experience, which is achieved via a combination of resilience policies (Using Polly) and automated load testing.
 My responsibilities in the team include ensuring high quality code, taking into consideration issues such as performance, resilience, security, and the long-term maintenance overhead. It also involves a lot of automation to reduce the team’s workload and keep us focused on the more difficult and challenging tasks.</p>
-<br/>
 Tech:
 C#, .Net Core/.Net 5, Docker & Docker-compose, Mongo DB, Git, Locust IO (Load testing), Python, some exposure to Kafka, Bash, Linux, AWS, Splunk, Grafana, Swagger/Open Api
 Techniques:
@@ -54,7 +51,6 @@ Success with this team led to a move to Tech Lead of the Motor Products, includi
 
 During my time on the motor team, I was also one of two people who designed the first iteration of BGL’s (CTM’s Parent company) first Tech Graduate Scheme, as well as overseeing the training and development of the junior developers across CTM.
 </p>
-<br/>
 Tech: C# .Net Framework, SQL Server, JQuery, WCF
 <br/>
 
@@ -89,7 +85,7 @@ I’ve been playing with F# in my own time, and while I’m unable to use this k
 I’m also learning Node.js, though I miss my compiler!</p>
 <br/>
 
-<h4>Currently Reading List:</h4>
+<h4>Current Reading List:</h4>
 <ul>
 <li>Domain Modelling Made Functional – Scott Wlaschin
 <li>Stylish F# - Kit Eason
