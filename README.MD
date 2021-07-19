@@ -22,7 +22,6 @@ david_cookj17drc@yahoo.co.uk<br/><br/>
 * Design of build a library to Automating and improving our Load tests.
 Designed and built a Python package to integrate with our Load Testing setup (Locust IO) to gather live usage stats on our services in Production (by querying Splunk) and automatically modelling our load tests to mimic how that service is used in Production. This package also performs validation and quality checks on our load test scripts to provide fast feedback on failures and ensure that no service endpoint goes untested. The package is now being adopted by other teams within CTM.
 <br/>
-<br/>
 * Training our junior dev and getting them promoted.
 I have been coaching a junior member of the team since she joined us on her final rotation as part of the graduate programme. When she arrived, she was thinking that she wanted to become a Business Analyst when the scheme finished. I took it as a personal challenge to show her what she could achieve in a more hands on role, working closely with her on a 1-2-1 basis. When the grad scheme finished, she applied for a junior developer role and joined our team, where we kept the relationship going. She has become a very valuable member of the team, recently promoted to Software Engineer, and we have set out more learning goals and objectives to get her moving in the direction of Senior.
 <br/>
