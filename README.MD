@@ -24,7 +24,7 @@ I have been coaching a junior member of the team since she joined us on her fina
 <br/>
 <br/>
 <li>Delivering online training to Devs across CTM.
-One of our Data Engineering teams were strugling to adopt Test Driven Development techniques so asked for volunteers to give some direction. I jumped at the chance to help get them up to speed. After figuring out where they were already, I put together a hands-on workshop showing them how we use TDD in our team.
+One of our Data Engineering teams were struggling to adopt Test Driven Development techniques so asked for volunteers to give some direction. I jumped at the chance to help get them up to speed. After figuring out where they were already, I put together a hands-on workshop showing them how we use TDD in our team.
 This was particularly interesting to me as they are all Python developers, and at the time I’d had little exposure to Python, so had to learn the language to deliver the training in a Tech they would all be comfortable with.
 After the workshop, I spent some time pairing and mobbing with people on the team to embed the new way of working. They now fully embrace the test first style of delivering code.
 </ul>
