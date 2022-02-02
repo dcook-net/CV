@@ -5,10 +5,8 @@ david_cookj17drc@yahoo.co.uk<br/><br/>
 <p>Medium: <a href="https://medium.com/@dcook_net">https://medium.com/@dcook_net</a></p>
 <p>Github: <a href="https://github.com/dcook-net">https://github.com/dcook-net</a></p>
 
-<p>A passionate hands-on Developer, who loves building things, solving problems, and sharing knowledge with those around me. </p>
-<p>My current focus is around distributed, cloud-based APIs, containerisation, automation, and coaching/mentoring of the more junior members of the team at CompareTheMarket.com (CTM). I’m a massive fan of simple code that is easy to read, easy to understand, and easy to test, as this helps everyone move faster!</p>
-<p>I have a lot of experience with .Net, having used C# since the early days of .Net Framework, and have spent the last 4+ years building and maintaining a range of micro services with .Net Core, MongoDB and AWS.</p>
-<p>More recently I've been learning F# in my own time, which has taught me both new ways of thinking and approaching problems; a process I'm finding both valuable and exciting.</p>
+<p>A passionate hands-on Developer, who loves building things, solving problems, and sharing knowledge with those around me. I’m a massive fan of simple code that is easy to read, easy to understand, and easy to test, as this helps everyone move faster!</p>
+<p>My current focus is around delivering AWS Lambda functions with F#. Prior to this, I spent 4-5 years building distributed, cloud-based APIs, using .Net Core & C#, Docker, Polly, MongoDB and AWS, along with several automation techniques to reduce the team’s workload. I was also coaching and mentoring more junior members of the team at CompareTheMarket.com (CTM). </p>
 <p>I get a real sense of fulfilment from teaching others, either pairing or mobbing, or on a larger scale:</p>
 <ul>
     <li>Over lockdown I’ve delivered several hands-on workshops teaching colleagues about Test Driven Development and Property Based Testing.
@@ -32,7 +30,10 @@ After the workshop, I spent some time pairing and mobbing with people on the tea
 </ul>
 
 <h4>Work History</h4>
-<h5>Senior Software Engineering @ ComparTheMarket.com: 2017 – Present</h5>
+<h5>Senior Software Engineering @ I2O Water: Dec 2021 – Present</h5>
+<p>Building serverless APIs in .Net Core and F#, using AWS Lambda and PostgresQL</p>
+
+<h5>Senior Software Engineering @ ComparTheMarket.com: 2017 – Nov 2021</h5>
 <p>Building and maintaining a large suite of microservices, running on .Net Core & C#, to power the backbone of the backend for CTM’s online quoting engine.
 This network of systems needs to be highly available, deal with high throughput and fast response times to deliver a smooth customer experience, which is achieved via a combination of resilience policies (Using Polly) and automated load testing.
 My responsibilities in the team include ensuring high quality code, taking into consideration issues such as performance, resilience, security, and the long-term maintenance overhead. It also involves a lot of automation to reduce the team’s workload and keep us focused on the more difficult and challenging tasks.</p>
@@ -80,16 +81,15 @@ This was a fantastic opportunity, introducing me to Test Driven Development, Dep
 <br/>
 <h4>Currently Learning:</h4>
 <p>F# and functional programming in general, including applying these techniques to object orientated focused languages such as C# and Python.
-I’ve been playing with F# in my own time, and while I’m unable to use this knowledge directly in my day job, it has had a profound impact on the way I write and test code on a day-to-day basis, having introduced me to new methods and techniques, and giving me more background to draw upon.
 
-I’m also learning Node.js, though I miss my compiler!</p>
+I’ve also been learning a little React, TypeScript and GraphQL recently.</p>
 <br/>
 
 <h4>Current Reading List:</h4>
 <ul>
 <li>Domain Modelling Made Functional – Scott Wlaschin
 <li>Stylish F# - Kit Eason
-<li>Functional Programming in C# - Enrico Buonanno</li>
+<li>Domain Driven Design - Eric Evens</li>
 </ul>
 <br/>
 <h4>Other Interests:</h4>
